@@ -1,0 +1,209 @@
+{
+    "m_SelectedDeviceId": "4VBBBBA640131517",
+    "m_SelectedPackage": {
+        "deviceId": "4VBBBBA640131517",
+        "name": "com.DefaultCompany.Train_Of_Hope",
+        "processId": 9791,
+        "exited": true
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 4694,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 4566,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 5980,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10182a60b4831303",
+            "name": "com.sec.android.app.launcher",
+            "processId": 12172,
+            "exited": false
+        },
+        {
+            "deviceId": "ce10182a60b4831303",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 22326,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10182a60b4831303",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 26102,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10182a60b4831303",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 27075,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10182a60b4831303",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 28172,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10182a60b4831303",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 29523,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10182a60b4831303",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 23557,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10182a60b4831303",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 27061,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10182a60b4831303",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 28553,
+            "exited": true
+        },
+        {
+            "deviceId": "4VBBBBA640131517",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 26959,
+            "exited": true
+        },
+        {
+            "deviceId": "4VBBBBA640131517",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 29706,
+            "exited": true
+        },
+        {
+            "deviceId": "4VBBBBA640131517",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 9809,
+            "exited": true
+        },
+        {
+            "deviceId": "4VBBBBA640131517",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 23871,
+            "exited": true
+        },
+        {
+            "deviceId": "4VBBBBA640131517",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 24312,
+            "exited": true
+        },
+        {
+            "deviceId": "4VBBBBA640131517",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 25048,
+            "exited": false
+        },
+        {
+            "deviceId": "4VBBBBA640131517",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 25702,
+            "exited": false
+        },
+        {
+            "deviceId": "4VBBBBA640131517",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 25964,
+            "exited": false
+        },
+        {
+            "deviceId": "4VBBBBA640131517",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 26477,
+            "exited": false
+        },
+        {
+            "deviceId": "4VBBBBA640131517",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 29821,
+            "exited": false
+        },
+        {
+            "deviceId": "4VBBBBA640131517",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 30981,
+            "exited": false
+        },
+        {
+            "deviceId": "4VBBBBA640131517",
+            "name": "com.DefaultCompany.Train_Of_Hope",
+            "processId": 9791,
+            "exited": true
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
